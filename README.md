@@ -31,6 +31,7 @@ Step 6- Finally, Deploy the API using Heroku.
 
 # How to run
 To run ner.py
+
 Type command in cmd: streamlit run ner.py
 ![WhatsApp Image 2021-04-12 at 12 18 13 PM](https://user-images.githubusercontent.com/57134054/114352179-2f38ab80-9b89-11eb-88bc-78a6311b07ad.jpeg)
 Copy and Paste URL in the browser to access API.
