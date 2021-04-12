@@ -17,4 +17,31 @@ Wikipedia- Wikipedia in python library is used to access and parse data from wik
 Below is the Flow chart for the methodology being used
 ![WhatsApp Image 2021-04-12 at 12 07 20 PM](https://user-images.githubusercontent.com/57134054/114351030-acfbb780-9b87-11eb-8be1-14c0bcff693f.jpeg)
 
+Step 1- Extract summary for the wikipedia page using wikipedia.summary()
+Step 2- Performing NER on the extracted summary using Spacy and basic HTML commands.
+Step 3- Extract full page content from the wikipedia url using BeautifulSoup library.
+Step 4- Performing NER on the extracted content using Space and basic HTML commands.
+Step 5- Display Performed NER using Streamlit.
+Step 6- Finally, Deploy the API using Heroku.
+
+# How to run
+To run ner.py
+Type command in cmd: streamlit run ner.py
+![WhatsApp Image 2021-04-12 at 12 18 13 PM](https://user-images.githubusercontent.com/57134054/114352179-2f38ab80-9b89-11eb-88bc-78a6311b07ad.jpeg)
+Copy and Paste URL in the browser to access API.
+# Screenshots of API
+Click Name Entity Recognition:Summary and Enter Page name to extract summary
+![WhatsApp Image 2021-04-12 at 10 39 36 AM](https://user-images.githubusercontent.com/57134054/114352447-8179cc80-9b89-11eb-8051-272f9faa10df.jpeg)
+Click check to perform NER
+![WhatsApp Image 2021-04-12 at 10 39 36 AM (1)](https://user-images.githubusercontent.com/57134054/114352820-eaf9db00-9b89-11eb-8d27-0b94b2ab1659.jpeg)
+Click  Name Entity Recognition:URL and Enter URL to extract content from web page.
+![WhatsApp Image 2021-04-12 at 10 39 36 AM (2)](https://user-images.githubusercontent.com/57134054/114352937-18468900-9b8a-11eb-94aa-e6a04522c8c6.jpeg)
+Click check to perform NER
+![WhatsApp Image 2021-04-12 at 10 39 36 AM (3)](https://user-images.githubusercontent.com/57134054/114353000-27c5d200-9b8a-11eb-9969-96b3b8455a68.jpeg)
+
+That's How we will perform NER on Wikipedia API.
+
+#Live URL for the task
+https://name-entity-recognition.herokuapp.com/
+
 
