@@ -41,7 +41,8 @@ Click check to perform NER
 
 That's How we will perform NER on Wikipedia API.
 
-#Live URL for the task
+# Live URL for the task
+
 https://name-entity-recognition.herokuapp.com/
 
 
