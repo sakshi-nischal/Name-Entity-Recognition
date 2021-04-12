@@ -18,10 +18,15 @@ Below is the Flow chart for the methodology being used
 ![WhatsApp Image 2021-04-12 at 12 07 20 PM](https://user-images.githubusercontent.com/57134054/114351030-acfbb780-9b87-11eb-8be1-14c0bcff693f.jpeg)
 
 Step 1- Extract summary for the wikipedia page using wikipedia.summary()
+
 Step 2- Performing NER on the extracted summary using Spacy and basic HTML commands.
+
 Step 3- Extract full page content from the wikipedia url using BeautifulSoup library.
+
 Step 4- Performing NER on the extracted content using Space and basic HTML commands.
+
 Step 5- Display Performed NER using Streamlit.
+
 Step 6- Finally, Deploy the API using Heroku.
 
 # How to run
