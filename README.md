@@ -37,10 +37,13 @@ Copy and Paste URL in the browser to access API.
 # Screenshots of API
 Click Name Entity Recognition:Summary from sidebar and Enter Page name to extract summary
 ![WhatsApp Image 2021-04-12 at 10 39 36 AM](https://user-images.githubusercontent.com/57134054/114352447-8179cc80-9b89-11eb-8051-272f9faa10df.jpeg)
+
 Click check button to perform NER
 ![WhatsApp Image 2021-04-12 at 10 39 36 AM (1)](https://user-images.githubusercontent.com/57134054/114352820-eaf9db00-9b89-11eb-8d27-0b94b2ab1659.jpeg)
+
 Click  Name Entity Recognition:URL from sidebar and Enter URL to extract content from web page.
 ![WhatsApp Image 2021-04-12 at 10 39 36 AM (2)](https://user-images.githubusercontent.com/57134054/114352937-18468900-9b8a-11eb-94aa-e6a04522c8c6.jpeg)
+
 Click check button to perform NER
 ![WhatsApp Image 2021-04-12 at 10 39 36 AM (3)](https://user-images.githubusercontent.com/57134054/114353000-27c5d200-9b8a-11eb-9969-96b3b8455a68.jpeg)
 
